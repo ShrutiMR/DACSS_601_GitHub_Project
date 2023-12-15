@@ -16,3 +16,5 @@ editor: visual
 ```
 
 Task#1: The last movie I saw in the theater is Oppenheimer.
+
+Task#2: I had fried rice with eggs for lunch today.
