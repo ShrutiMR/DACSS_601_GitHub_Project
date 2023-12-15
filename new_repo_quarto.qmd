@@ -1,0 +1,18 @@
+---
+title: "new_repo_quarto"
+author: "Shruti Ramesh Babu Mallavolu"
+description: "creating a new quarto file in a github version control R project"
+date: "12/15/2023"
+format: 
+  html: 
+    df-print: paged
+    css: "styles.css"
+    embed-resources: true
+    self-contained-math: true
+editor: visual
+---
+
+```{}
+```
+
+Task#1: The last movie I saw in the theater is Oppenheimer.
